@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "time.h": "c",
+        "shared_memory.h": "c",
+        "wait.h": "c",
+        "main.h": "c",
+        "constants.h": "c",
+        "typeinfo": "c"
+    }
+}
